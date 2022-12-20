@@ -8,6 +8,7 @@ scanf("%d",&n);
 for(i=1;i<=n;i++)
 {
 	fact=fact*i;
+	//fact
 }
 printf("\n fact=%d",fact);
 }
